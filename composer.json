@@ -1,5 +1,5 @@
 {
-    "name": "shaunhardy/salesforce-rest-sdk",
+    "name": "trunkstar/salesforce-rest-sdk",
     "description": "An SDK for the Salesforce Rest API",
     "type": "library",
     "require": {
